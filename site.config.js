@@ -1,11 +1,11 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'bc4d25e2f3204f74bb2ae7323888b7aa',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Joohan Lee',
+  domain: 'eelnahooj.vercel.app',
+  author: 'Test',
 
   // open graph metadata (optional)
   description: 'Example site description',
