@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'bc4d25e2f3204f74bb2ae7323888b7aa',
+  rootNotionPageId: 'e336c46b89c347fb8ae020b5fd8cc978',
 
   // basic site info (required)
-  name: 'Joohan Lee',
-  domain: 'eelnahooj.vercel.app',
-  author: 'Test',
+  name: '梦之圈-D',
+  domain: 'exacgd.notion.site',
+  author: '梦羽',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '梦之圈的分站 编号:D',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
